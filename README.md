@@ -9,11 +9,11 @@ Refines the concepts:
 
 #Here are the different input from performing various tasks
 
-"PRODS" - Shows all the product in the system.
-"CUSTS" - Shows all the customers in the system.
-"Q" / "Quit" - Quit the program.
-"PRINTBYPRICE" - Sorts all the producst by price and then displays them.
-"PRINTBYNAME" - Sorts all the producst by name and then displays them.
+\n"PRODS" - Shows all the product in the system.
+\n"CUSTS" - Shows all the customers in the system.
+\n"Q" / "Quit" - Quit the program.
+\n"PRINTBYPRICE" - Sorts all the producst by price and then displays them.
+\n"PRINTBYNAME" - Sorts all the producst by name and then displays them.
 "NEWCUST" - Add a new customer.
 "BOOKS" - Shows all the books.
 "SHOES" - Shoes all the shoes.
