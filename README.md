@@ -1,4 +1,4 @@
-# ECommerceSystemJava
+# Ecommerce System Java
 An object oriented java program for an e-commerce system.
 Refines the concepts:
 1. File I/O
