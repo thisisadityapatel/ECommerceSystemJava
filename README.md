@@ -3,7 +3,7 @@ An object oriented java program for an e-commerce system.
 Refines the concepts:
 1. File I/O
 2. Exception Handling
-3. Data Structures - Arrays, ArrayLists, HashMpa, TreeSet;
+3. Data Structures - Arrays, ArrayLists, HashMap, TreeSet;
 4. OOPS 
 5. Encryption techniques
 
