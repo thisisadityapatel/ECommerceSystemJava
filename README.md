@@ -1,10 +1,10 @@
 # Ecommerce System Java
 An object oriented java program for an e-commerce system.
 Refines the concepts:
-1. File I/O
+1. Object Oriented Porgramming OPPS
 2. Exception Handling
 3. Data Structures - Arrays, ArrayLists, HashMap, TreeSet;
-4. OOPS 
+4. File IO
 5. Encryption techniques
 
 #Here are the different input from performing various tasks
